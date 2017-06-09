@@ -1,0 +1,83 @@
+ [
+  {
+  "_id": "593adfba2756b802b5d88b59",
+  "index": 0,
+  "guid": "0c233507-b862-4211-980a-a1f55f1e9845",
+  "isActive": true,
+  "balance": "$1,645.18",
+  "picture": "http://placehold.it/32x32",
+  "age": 39,
+  "eyeColor": "blue",
+  "name": {
+  "first": "Jan",
+  "last": "Monroe"
+  },
+  "company": "PROVIDCO",
+  "email": "jan.monroe@providco.net"
+  },
+  {
+  "_id": "593adfbaeb8dc2968ac4f398",
+  "index": 1,
+  "guid": "16196ef5-5d53-4b51-8020-4dbe88b515f4",
+  "isActive": true,
+  "balance": "$1,675.50",
+  "picture": "http://placehold.it/32x32",
+  "age": 30,
+  "eyeColor": "brown",
+  "name": {
+  "first": "Serrano",
+  "last": "Colon"
+  },
+  "company": "ZIGGLES",
+  "email": "serrano.colon@ziggles.co.uk"
+  },
+  {
+  "_id": "593adfbadd7dba92ab30c765",
+  "index": 2,
+  "guid": "7bb5e192-c2a0-46e0-b85b-56918b33699b",
+  "isActive": false,
+  "balance": "$2,451.35",
+  "picture": "http://placehold.it/32x32",
+  "age": 22,
+  "eyeColor": "green",
+  "name": {
+  "first": "Peck",
+  "last": "Osborne"
+  },
+  "company": "ISOSWITCH",
+  "email": "peck.osborne@isoswitch.me"
+  },
+  {
+  "_id": "593adfba6ee783b858404471",
+  "index": 3,
+  "guid": "c9c6bf26-a79b-4de4-be7d-48bdffbc4237",
+  "isActive": false,
+  "balance": "$2,077.03",
+  "picture": "http://placehold.it/32x32",
+  "age": 25,
+  "eyeColor": "green",
+  "name": {
+  "first": "Anita",
+  "last": "Compton"
+  },
+  "company": "SNACKTION",
+  "email": "anita.compton@snacktion.io"
+  },
+  {
+  "_id": "593adfba2d9200c2b7582bee",
+  "index": 4,
+  "guid": "406591ec-4157-4fb3-b1c3-7295878077e9",
+  "isActive": false,
+  "balance": "$1,920.44",
+  "picture": "http://placehold.it/32x32",
+  "age": 27,
+  "eyeColor": "brown",
+  "name": {
+  "first": "Allie",
+  "last": "Blackburn"
+  },
+  "company": "BUGSALL",
+  "email": "allie.blackburn@bugsall.tv"
+  }
+  ]
+
